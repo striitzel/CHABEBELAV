@@ -1,0 +1,16 @@
+{
+  "name": "Chá de Bebê Surpresa da Lavínia",
+  "short_name": "Chá da Lavínia",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7fa",
+  "theme_color": "#f5b6c7",
+  "description": "Convite virtual para o chá de bebê surpresa da Lavínia.",
+  "icons": [
+    {
+      "src": "assets/qr-pix.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
